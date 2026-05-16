@@ -1,0 +1,2 @@
+# ranks-accessories
+paymentmethod
